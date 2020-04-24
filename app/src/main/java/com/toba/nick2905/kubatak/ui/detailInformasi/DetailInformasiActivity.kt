@@ -31,8 +31,7 @@ class DetailInformasiActivity : AppCompatActivity() {
         showRecyclerKesusastraan()
 
         backImageInformasi.setOnClickListener {
-            startActivity(Intent(this, MainActivity::class.java))
-            finish()
+            onBackPressed()
         }
     }
 
@@ -78,11 +77,5 @@ class DetailInformasiActivity : AppCompatActivity() {
         rvKesusastraan.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         adapterKesusastraanAdapter = KesusastraanAdapter(listSastra)
         rvKesusastraan.adapter = adapterKesusastraanAdapter
-    }
-
-    //onBackPress
-    override fun onBackPressed() {
-        startActivity(Intent(this, MainActivity::class.java))
-        finish()
     }
 }

@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.toba.nick2905.kubatak.R
 import com.toba.nick2905.kubatak.data.local.Mataangin
 import com.toba.nick2905.kubatak.data.local.Numbering
+import com.toba.nick2905.kubatak.ui.Kamus.KamusActivity
 import com.toba.nick2905.kubatak.ui.detailInformasi.DetailInformasiActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -32,7 +33,11 @@ class MainActivity : AppCompatActivity() {
 
         lnrInformasiBatak.setOnClickListener {
             startActivity(Intent(this, DetailInformasiActivity::class.java))
-            finish()
+
+        }
+
+        lnrKamusBatakIndo.setOnClickListener {
+            startActivity(Intent(this, KamusActivity::class.java))
         }
     }
 
