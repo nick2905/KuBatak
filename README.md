@@ -31,7 +31,7 @@ Aplikasi ini berisi tentang aksara dari suku Batak Toba dari Indonesia. Aplikasi
 
 Kamu Bisa Mengunduhnya disini
 
-* [Google Drive](https://drive.google.com/open?id=1Vpi7WupQXVIbk58SoVJCp0YU1wndnrMh) 
+* [Play Store](https://play.google.com/store/apps/details?id=com.toba.nick2905.kubatak) 
 
 atau kamu dapat melakukan clone repository dengan
 
