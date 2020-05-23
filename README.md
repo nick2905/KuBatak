@@ -2,6 +2,9 @@
 
 Aplikasi ini berisi tentang aksara dari suku Batak Toba dari Indonesia. Aplikasi ini dibuat untuk mengedukasi masyarakat yang ingin melestarikan budaya Batak Toba yang dimana pada saat ini sudah mulai berkurang. Dalam aplikasi ini disediakan informasi yang sangat berguna, penggunaan bahasa batak toba, aksara batak toba, sejarah, Kamus Batak Toba - Indonesia, dan beberapa fitur lainnya yang akan di update selanjutnya
 
+## Download Disini
+<a href='https://play.google.com/store/apps/details?id=com.toba.nick2905.kubatak&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 <table>
   <tr>
     <td>Beranda</td>
@@ -28,16 +31,12 @@ Aplikasi ini berisi tentang aksara dari suku Batak Toba dari Indonesia. Aplikasi
  </table>
 
 ### Installing
-
-Kamu Bisa Mengunduhnya disini
-
-* [Play Store](https://play.google.com/store/apps/details?id=com.toba.nick2905.kubatak) 
-
-atau kamu dapat melakukan clone repository dengan
+kamu dapat melakukan clone repository dengan
 
 ```
 git clone https://github.com/nick2905/KuBatak.git
 ```
+atau dapat mengunduhnya di link playstore diatas
 
 ## Authors
 
